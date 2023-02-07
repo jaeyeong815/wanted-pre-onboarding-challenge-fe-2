@@ -1,0 +1,11 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "dependencies": {
+    "jsdoc": "^4.0.0"
+  }
+}
